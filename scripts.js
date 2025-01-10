@@ -1,13 +1,13 @@
 const slides = [
     {
         title: "Slide - 20250109",
-        link: "pre_20250109/",
-        image: "pre_20250109/slides/img/slide1.jpg" // 确保路径正确
+        link: "presentation_list/pre_20250109/",
+        image: "presentation_list/pre_20250109/slides/img/slide1.jpg" // 确保路径正确
     },
     {
         title: "Slide - 20250110",
-        link: "pre_20250110/",
-        image: "pre_20250110/slides/img/slide1.jpg" // 确保路径正确
+        link: "presentation_list/pre_20250110/",
+        image: "presentation_list/pre_20250110/slides/img/slide1.jpg" // 确保路径正确
     }
 ];
 
